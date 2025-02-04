@@ -17,7 +17,7 @@ Go Blueprint 提供了佈局範例，甚至是專案建立指令，完全是超�
 ## Udemy 課程
 
 在課程內容中，講師也說明了一套根據自身經驗，所總結出的佈局邏輯，謝謝講師的分享。
-![課程圖片](./Golang/assets/udemy 01.png "專案示意圖")
+![Udemy 課程](./assets/udemy%2001.png "Udemy 課程")
 
 ## 最佳實踐，以 blog 系統為例
 
